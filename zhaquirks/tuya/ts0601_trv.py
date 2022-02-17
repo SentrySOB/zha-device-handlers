@@ -1210,6 +1210,8 @@ class ZonnsmartTV01_ZG(TuyaThermostat):
             ("_TZE200_e9ba97vf", "TS0601"),
             ("_TZE200_husqqvux", "TS0601"),
             ("_TZE200_kly8gjlz", "TS0601"),
+            ("_TZE200_2ekuz3dz", "TS0601"),
+            ("_TZE200_ye5jkfsb", "TS0601"),
         ],
         ENDPOINTS: {
             1: {
